@@ -4,6 +4,9 @@ body {
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
     height: 100vh;
+    background-image: url("workout-image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .container {
